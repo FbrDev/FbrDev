@@ -1,16 +1,13 @@
-### Hi there 👋
+### Opa, Meu nome é Fabrício. Prazer! 👋
 
-<!--
-**pfabricio555/pfabricio555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+São Paulo/SP 🏠
 
-Here are some ideas to get you started:
+- 💻 Estudando desenvolvimento backend C# e .NET
+- 📚 Sempre buscando aprender novos conteúdos de desenvolvimento backend
+- 🎓 Cursando 5º semestre em Análise e Desenvolvimento de Sistemas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Entre em contato 📇
+
+[![N|Solid](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabricio-pereira-6282251a6/)         [![N|Solid](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pfabricio555@gmail.com)   
+
+ A vida é um aprendizado! 👊
