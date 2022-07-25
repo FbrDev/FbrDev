@@ -2,7 +2,7 @@
 
 São Paulo/SP 🏠
 
-- 💻 Estudando desenvolvimento backend C# e .NET
+- 💻 Estudando desenvolvimento backend C# e PHP
 - 📚 Sempre buscando aprender novos conteúdos de desenvolvimento backend
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas
 
