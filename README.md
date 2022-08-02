@@ -1,8 +1,6 @@
 <h1 align="center">Olá 👋, me chamo Fabrício Pereira</h1>
 <h3 align="center">Desenvolvedor .NET Júnior apaixonado por Back-end</h3>
 
-- 🔭 No momento estou trabalhando [Trabalha Brasil](https://www.trabalhabrasil.com.br/)
-
 - 🏠 Estou localizado na cidade **São Paulo/SP**
 
 - 🌱 Atualmente estou aprendendo **C#, .NET, ASP.NET Core, SQL, Javascript**
