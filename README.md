@@ -29,6 +29,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Grandstander&duration=1&pause=1&color=FFFFFF&repeat=false&width=435&height=40&lines=%F0%9F%93%8A+Status+Github)](https://git.io/typing-svg)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fbrdev&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fbrdev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&hide=html,css)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=footer"/>
