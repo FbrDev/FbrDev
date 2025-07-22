@@ -33,8 +33,4 @@
 
 <br>
 
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbrdev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&hide=html,css&hide_title=true" />
-  </div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=footer"/>
